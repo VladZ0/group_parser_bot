@@ -1,0 +1,4 @@
+aiogram==2.24
+telethon==1.26.1
+pandas==1.5.3
+python-dotenv==0.21.1
